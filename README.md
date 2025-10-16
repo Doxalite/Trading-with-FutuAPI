@@ -1,8 +1,7 @@
 Building an automated trading setup
 
 
-Current settings:
-
+Current settings:\n
 Trade environment: simulated
 
 Trade market: HK
